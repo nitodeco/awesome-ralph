@@ -1,4 +1,4 @@
-# Awesome Ralph [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/snwfdhmp/awesome-ralph?style=social)](https://github.com/snwfdhmp/awesome-ralph/stargazers)
+# Awesome Ralph [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of resources about Ralph (aka Ralph Wiggum), the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.
 
