@@ -1,4 +1,4 @@
-# Awesome Ralph [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Ralph [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub stars](https://img.shields.io/github/stars/snwfdhmp/awesome-ralph?style=social)](https://github.com/snwfdhmp/awesome-ralph/stargazers)
 
 > A curated list of resources about Ralph (aka Ralph Wiggum), the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.
 
@@ -14,6 +14,8 @@ while :; do cat PROMPT.md | claude-code ; done
 - Each iteration starts fresh with clean context
 - Use "backpressure" (tests, lints, type checks) to validate work
 - Philosophy: *"Sit on the loop, not in it"* — or as Huntley puts it: *"deterministically bad in an undeterministic world"*
+
+> **Found this useful? ⭐️ Like this repo to help others discover it**
 
 ## Contents
 
@@ -33,6 +35,7 @@ while :; do cat PROMPT.md | claude-code ; done
   - [Hacker News Discussions](#hacker-news-discussions)
   - [Tools & Directories](#tools--directories)
 - [Related Tools](#related-tools)
+- [Support](#support)
 - [Contributing](#contributing)
 
 ## Official Resources
@@ -147,12 +150,12 @@ project-root/
 
 - [Advanced Context Engineering for Coding Agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents) - Techniques for optimizing context windows and prompts for autonomous agents.
 
+## Support
+
+If this list helped you discover useful Ralph resources, please give it a ⭐️ star! It helps others find this collection.
+
+[![Stargazers repo roster for @snwfdhmp/awesome-ralph](https://reporoster.com/stars/snwfdhmp/awesome-ralph)](https://github.com/snwfdhmp/awesome-ralph/stargazers)
+
 ## Contributing
 
 Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.

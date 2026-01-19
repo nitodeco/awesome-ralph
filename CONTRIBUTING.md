@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Thank you for your interest in contributing to Awesome Ralph!
+Thank you for your interest in contributing to awesome-ralph
 
 ## Adding a Resource
 
