@@ -15,7 +15,7 @@ while :; do cat PROMPT.md | claude-code ; done
 - Use "backpressure" (tests, lints, type checks) to validate work
 - Philosophy: *"Sit on the loop, not in it"* — or as Huntley puts it: *"deterministically bad in an undeterministic world"*
 
-> **Found this useful? [⭐️ Star this repo](https://github.com/snwfdhmp/awesome-ralph/stargazers) to help others discover it!**
+> **Found this useful? ⭐️ Like this repo to help others discover it**
 
 ## Contents
 
