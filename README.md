@@ -158,8 +158,8 @@ project-root/
 
 ### Ralph Communities
 
-- [r/ralphcoding]: A subreddit about Ralph Coding. Share your learnings, resources, achievements with the community.
-- [Ralph Discord](https://discord.gg/MUyRMqKcWx): Discord community discussing Ralph methods/resources/achievements.
+- [r/ralphcoding](https://www.reddit.com/r/RalphCoding/) - A subreddit about Ralph Coding. Share your learnings, resources, achievements with the community.
+- [Ralph Discord](https://discord.gg/MUyRMqKcWx) - Discord community discussing Ralph methods/resources/achievements.
 
 ## Related Tools
 
@@ -174,3 +174,5 @@ If this list helped you discover useful Ralph resources, please give it a ⭐️
 ## Contributing
 
 Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+Join the community on [Discord](https://discord.gg/MUyRMqKcWx) and [Reddit](https://www.reddit.com/r/RalphCoding/)
