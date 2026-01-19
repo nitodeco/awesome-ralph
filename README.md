@@ -2,8 +2,6 @@
 
 > A curated list of resources about Ralph (aka Ralph Wiggum), the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.
 
-**Found this useful? [Star this repo](https://github.com/snwfdhmp/awesome-ralph/stargazers) to help others discover it!**
-
 Ralph is a technique created by [Geoffrey Huntley](https://ghuntley.com) for autonomous AI coding. The core concept is elegantly simple:
 
 ```bash
@@ -16,6 +14,8 @@ while :; do cat PROMPT.md | claude-code ; done
 - Each iteration starts fresh with clean context
 - Use "backpressure" (tests, lints, type checks) to validate work
 - Philosophy: *"Sit on the loop, not in it"* — or as Huntley puts it: *"deterministically bad in an undeterministic world"*
+
+> **Found this useful? [⭐️ Star this repo](https://github.com/snwfdhmp/awesome-ralph/stargazers) to help others discover it!**
 
 ## Contents
 
@@ -152,7 +152,7 @@ project-root/
 
 ## Support
 
-If this list helped you discover useful Ralph resources, please give it a star! It helps others find this collection.
+If this list helped you discover useful Ralph resources, please give it a ⭐️ star! It helps others find this collection.
 
 [![Stargazers repo roster for @snwfdhmp/awesome-ralph](https://reporoster.com/stars/snwfdhmp/awesome-ralph)](https://github.com/snwfdhmp/awesome-ralph/stargazers)
 
